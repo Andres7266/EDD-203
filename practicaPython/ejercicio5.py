@@ -1,4 +1,4 @@
-
+"""Calcular el índice de la masa corpora"""
 peso = float(input("Ingresa tu peso en kg: "))
 altura = float(input("Ingresa tu altura en metros: "))
 IndiceM = peso / (altura ** 2)
