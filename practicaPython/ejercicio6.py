@@ -1,3 +1,4 @@
+"""Generar la serie cuadrada de cualquier tamaño utilizando while"""
 
 for i in range(3):
     j = 0
