@@ -1,3 +1,4 @@
+"""Hallar el elemento mayor y menor de la lista"""
 def Mayor():
     lista = [1, 6, 4, 4, 5]
     mayor = lista[0]
