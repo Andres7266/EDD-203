@@ -1,4 +1,4 @@
-
+"""Crea una calculadora que funcione de la siguiente manera: sumar, restar, multiplicar, dividir y potencia"""
 print("\n 1.-Suma\n 2.-Resta\n 3.-Multiplicación\n 4.-División\n 5.-Potencia")    
 option=int(input("Elige una opción: "))
 if(option==1):
